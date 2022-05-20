@@ -1,4 +1,5 @@
 //implementing class
+
 class Security_Manager
 {
   private:
