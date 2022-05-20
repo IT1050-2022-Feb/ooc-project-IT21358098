@@ -6,6 +6,7 @@ using namespace std;
 
 //IMPLEMENT METHODS OF Registered_User CLASS
 
+
 Registered_User::Registered_User()
 {
 

@@ -17,4 +17,5 @@ public:
     void setPassword();
     void resetPassword();
     ~Registered_User();
+
 };

@@ -3,6 +3,7 @@ private:
     string UUname;
     string UUemail;
     string UUtelNum;
+
 public:
     Unregistered_User();
     void Registering();

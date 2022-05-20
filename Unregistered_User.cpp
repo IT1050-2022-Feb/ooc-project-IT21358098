@@ -3,6 +3,7 @@
 #include "Unregistered_User.h"
 
 using namespace std;
+
 //IMPLEMENT METHODS OF Unregistered_User CLASS
 
 Unregistered_User::Unregistered_User()

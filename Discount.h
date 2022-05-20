@@ -4,6 +4,7 @@ private:
     string discountCode;
     string payAmount;
 public:
+
     Discount();
     void generateDis();
     float getDiscount();

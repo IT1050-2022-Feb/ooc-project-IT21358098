@@ -50,6 +50,7 @@ float Discount::getDiscount()
     return discountPrecent;
 }
 
+
 Discount::~Discount()
 {
 

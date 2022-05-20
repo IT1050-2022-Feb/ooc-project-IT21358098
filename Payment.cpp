@@ -3,6 +3,7 @@
 #include "Payment.h"
 
 using namespace std;
+
 //IMPLEMENT METHODS OF Payment CLASS
 
 Payment::Payment()

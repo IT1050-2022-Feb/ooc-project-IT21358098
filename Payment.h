@@ -11,4 +11,5 @@ public:
     void updateUserPayDetails();
     void calPayment();
     ~Payment();
+
 };
