@@ -7,6 +7,7 @@ private:
     string RUaddress;
     string RUpassword;
     Order* Ord[1];
+
 public:
     Registered_User();
     Registered_User(string ID, string Name, string Email, string TelNum, string Address, string PW);
