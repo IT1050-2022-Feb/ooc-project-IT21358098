@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 Security_Manager ::Security_Manager () //Security Manager Constructor
 {
   SM_id="";

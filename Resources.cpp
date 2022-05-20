@@ -2,7 +2,6 @@
 #include <string>
 #include "Resources.h"
 using namespace std;
-
 // Resources
 void Resources::setResourcesDetails(string Type, int No)
 

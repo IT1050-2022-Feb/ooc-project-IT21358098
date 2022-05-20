@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 SystemAdmine :: SystemAdmine() //System Admine constructor
 {
   SA_id= "";

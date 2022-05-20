@@ -1,3 +1,4 @@
+//implementing class
 class Security_Manager
 {
   private:
@@ -7,7 +8,6 @@ class Security_Manager
      double allowance;
      double salary;
      
-
   public:
     Security_Manager();
     Security_Manager (string pSM_id,string pname, double pbasicSal);

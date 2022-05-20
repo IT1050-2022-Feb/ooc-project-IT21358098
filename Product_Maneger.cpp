@@ -2,6 +2,7 @@
 #include <string>
 #include "Product_Maneger.h"
 using namespace std;
+
 //IMPLEMENT METHODS OF Product_Manager CLASS
 Product_Maneger::Product_Maneger(string pid, string pname, string Emils, string telnum)
 {
@@ -10,6 +11,7 @@ Product_Maneger::Product_Maneger(string pid, string pname, string Emils, string 
     Email = Emils;
     TelNum = telnum;
 }
+
 
 void Product_Maneger::product_ManegerUpdate()
 {
