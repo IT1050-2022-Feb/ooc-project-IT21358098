@@ -2,8 +2,7 @@
 #include <string>
 #include "IT_Manager.h"
 using namespace std;
-
-
+ 
 // IT_Manager
  IT_Manager::IT_Manager(string ID, string Name, string Email, string TelNum)
  

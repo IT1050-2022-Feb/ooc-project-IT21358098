@@ -2,8 +2,7 @@
 #include <string>
 #include "Staff_Member.h"
 using namespace std;
-
-
+  
 // Staff_Member
 Staff_Member::Staff_Member(string ID, string Name, string Email, string TelNum)
  
