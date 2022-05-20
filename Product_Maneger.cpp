@@ -10,6 +10,7 @@ Product_Maneger::Product_Maneger(string pid, string pname, string Emils, string 
     PName = pname;
     Email = Emils;
     TelNum = telnum;
+  
 }
 
 

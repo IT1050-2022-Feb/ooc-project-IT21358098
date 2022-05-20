@@ -4,6 +4,7 @@ private:
     string productName;
     float productPrice;
 
+
 public:
     Product();
     Product(string ID, string Name, float Price);

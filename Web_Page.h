@@ -5,6 +5,7 @@ class Web_Page
      string WP_Name;
      string WP_Type; 
 
+
   public:
      Web_Page();
      Web_Page(string pid , string pName , string pType);

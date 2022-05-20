@@ -5,6 +5,7 @@ class Item_Category
      string IC_Name;
      Product* Pdt[1];
 
+
   public:
      Item_Category(string cid , string cName , string pID , string pName, float pPrice);
      void getDetails();
