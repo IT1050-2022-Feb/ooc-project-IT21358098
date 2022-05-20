@@ -9,7 +9,6 @@ private:
 
 public:
 
-
     Product_Maneger();
     Product_Maneger(string pid, string pname, string Emils, string telnum);
     void product_ManegerUpdate();

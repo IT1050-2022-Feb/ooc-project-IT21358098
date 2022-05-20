@@ -7,8 +7,6 @@ private:
 
 public:
 
-
-
     Review();
     Review(string rev, string PID,int Numberofrewiteam,int productid);
     void getPdtReview();
